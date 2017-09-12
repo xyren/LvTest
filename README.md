@@ -16,3 +16,6 @@ php artisan make:controller TestController
 
 
 c:\xampp\htdocs\ProjectName\app\Http\controllers\XYZController.php
+
+// start laravel
+php artisan serve
